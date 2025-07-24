@@ -16,4 +16,3 @@ A simple machine learning web app to predict employee salaries based on experien
 ```bash
 streamlit run app.py
 ```
-### Live on: 
